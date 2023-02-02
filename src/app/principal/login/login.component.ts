@@ -31,7 +31,7 @@ export class LoginComponent implements OnInit {
   urlRedireccion = ""
   ngOnInit(): void {
   }
-  Usuario_= "Kenyi"
+  Usuario_= "jhon"
   Password_= "123456"
   contrasenaincorrecta = false
   login(){
